@@ -1,4 +1,3 @@
 PayPal Valid Number Checker
-it will check your number list from a file.txt which is associated with paypal and which is not .it needs http proxy free or paid both are supported .if you wanna buy this tool contact me via Facebook or Telegram . 
-Facebook : https://web.facebook.com/alexrony85/
+it will check your number list from a file.txt which is associated with paypal and which is not .it needs http proxy free or paid both are supported .if you wanna buy this tool contact me via Telegram .
 Telegram : @alexrony21
